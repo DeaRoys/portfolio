@@ -1,24 +1,24 @@
 # Portfolio
 
-#Introduction
--Education
+# Introduction
+- Education
 
-#Projects
-###Project1
--Description
+# Projects
+### Project1
+- Description
 
-###Project2
--Description
+### Project2
+- Description
 
-###Project3
--Description
+### Project3
+- Description
 
-#Technical Skills
--Description
+# Technical Skills
+- Description
 
-#Work Experience and Internship
--Description
+# Work Experience and Internship
+- Work Experience1
 
-#Reflection and personal growth
+# Reflection and personal growth
 
-#Contact Details
+# Contact Details
