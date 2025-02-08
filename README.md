@@ -2,7 +2,7 @@
 
 # Introduction
 - Education
-- 
+  
 # Academic Acheievements
 ### Project1
 - Description
