@@ -25,24 +25,24 @@
 - This project demonstrates expertise in mobile app development and financial tools, combining functionality with user-centric design.
 
 # Technical Skills
-# Programming and software development
+## Programming and software development
 - Web design and development
 - Programming: Python and Java
   
-# Data Science and Machine Learning
+## Data Science and Machine Learning
 - Introductory to Machine Learning and Data Science
 - Information processing and visualization
 - Deep Learning
   
-# Database and Data Management 
+## Database and Data Management 
 - Database Modelling
   
-# Networking and Security
+## Networking and Security
 - Network Security
 - Cloud Computing – Amazon Web Services
 - Mobile Computing
   
-# Fundamental IT Concepts
+## Fundamental IT Concepts
 - Internet Fundamentals
 - Discrete Mathematics for Computing 
 
